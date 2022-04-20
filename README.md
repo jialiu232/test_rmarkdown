@@ -12,7 +12,7 @@ It turns out that github cannot render `.rmd` files.
 
 Suppose your file name is `title.rmd`,
 
-1. change `output: html_document` to `output: github_document` in `title.rmd` file;
+1. From Rstudio: change `output: html_document` to `output: github_document` in `title.rmd` file;
 2. knit the `title.rmd` file in Rstudio will produce a `title.md` file, and a `title_files/` folder if any plots are generated;
 3. then stage, commit and push the `title.md` file as well as the `title_files/` (if there is one) to your github repo (Feel free to update any other changes to github as needed).
 
