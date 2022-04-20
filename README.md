@@ -1,4 +1,4 @@
-# Visualize output file generated from Rmarkdown on Github 
+# Visualize output file rendered from Rmarkdown on Github 
 
 **Purpose**:
 
@@ -17,6 +17,6 @@ Suppose your file name is `title.rmd`,
 3. then stage, commit and push the `title.md` file as well as the `title_files/` if there is one to your github repo (Feel free to update any other changes to github as needed).
 
 
-Since Github can render `.md` files, now just click the `title.md` in your github repo and you should be able to see what you want to see. 
+Since Github can render `.md` files, now just click the `title.md` in your github repo and you should be able to see what you want. 
 
 Reference: https://gist.github.com/JoshuaTPierce/b919168421b40e06481080eb53c3fb2f
